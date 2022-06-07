@@ -1,1 +1,4 @@
-image.png
+- mac安装nvm
+- ![image](./img/nvm.jpg)
+- vue2 --vetur
+- vue3 --volar
